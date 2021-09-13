@@ -84,13 +84,11 @@ body {
     font-size: 13px;
     padding: 0px 20px 20px 20px;
     color: hsl(0, 0%, 81%);
-    line-height: 1.3rem;
     line-height: 20px;
 }
 
 .box-descr-n-o {
     font-size: 13px;
-    line-height: 1.3rem;
     line-height: 20px;
     padding: 0px 20px 20px 20px;
     color: hsl(217, 19%, 35%);
